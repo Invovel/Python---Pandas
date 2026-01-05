@@ -1,3 +1,3 @@
-# FAESR---Data-Clean
+# Python - Pandas
 About FAERS - Data : Download and Clean 
 practise.py -> For basic knowledge
